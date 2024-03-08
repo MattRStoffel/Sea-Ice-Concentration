@@ -15,4 +15,5 @@
 
 # Useful Links
 - [EarthAccess](https://github.com/nsidc/earthaccess?tab=readme-ov-file) - python library to search, download or stream [NASA Earth science data](https://www.earthdata.nasa.gov)
+- [NSIDC](https://nsidc.org/home) - National Snow and Ice Data Center
 - 

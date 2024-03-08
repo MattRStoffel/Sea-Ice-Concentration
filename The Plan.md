@@ -1,10 +1,4 @@
-### **Phase 1: Initial Preparation (Weeks 1-2)**
-
-1. **Week 1: Understanding the Landscape**
-    
-    - Conduct a focused literature review on sea ice detection using remote sensing.
-    - Identify key challenges and gaps in existing methods.
-    - Define the specific research problem and its significance.
+### **Phase 1: Initial Preparation (Weeks 1)**
 2. **Week 2: Familiarization with Data and Technologies**
     
     - Familiarize yourself with TechDemoSat-1 (TDS-1) and its delay-Doppler maps (DDMs).

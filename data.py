@@ -21,10 +21,13 @@ for results in satelites:
     earthaccess.download(results, "./local_folder")
     
 # TODO - is the folloing comment true?
-#This method works best if you are in the same Amazon Web Services (AWS) region as the data (us-west-2) and you are working with gridded datasets (processing level 3 and above).
-for results in satelites:
-    files = earthaccess.open(results)
-    ds = xr.open_mfdataset(files)
+#This method works best if you are in the same Amazon Web Services (AWS) region as the data (us-west-2) and you are working with gridded datasets (processing level 3 and above). 
+
+#  The following may slow us down while trinaing the model, so we may need to find a way to download the data in a more efficient way.
+
+# for results in satelites:
+#     files = earthaccess.open(results)
+#     ds = xr.open_mfdataset(files)
 
 
 

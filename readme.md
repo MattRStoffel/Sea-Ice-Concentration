@@ -12,6 +12,8 @@
 - [Sentinel](https://sentinels.copernicus.eu/web/sentinel/home) - Verity of data collection
 - [PACE](https://pace.gsfc.nasa.gov) - Plankton Aerosol Cloud ocean Ecosystem (maybe useless)
 
+- [TDS-1](https://github.com/pjalesSSTL/GNSSR_MERRByS_Python/tree/publicRelease) - Tech Demo Satelite 1 for polar DDMs
+
 
 # Useful Links
 - [EarthAccess](https://github.com/nsidc/earthaccess?tab=readme-ov-file) - python library to search, download or stream [NASA Earth science data](https://www.earthdata.nasa.gov)
